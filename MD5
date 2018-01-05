@@ -1,0 +1,14 @@
+dd9cca58b06fce06334800346223028f *DESCRIPTION
+a967ea4bda76fb5e4b21b05a90eed6da *NAMESPACE
+83020f279f3887307283037e2351643e *R/coindeskr.R
+7bfe991cee893602ffa3984b0b052707 *R/dependencies.R
+dfffebc3a05b2b7252a5fbbb776d44dd *README.md
+4fc0ba96b46908a29e4501a81b7178c4 *inst/doc/coindeskr.R
+c0738f620f02f3b9cdf15892e0f885cc *inst/doc/coindeskr.Rmd
+656319a3398749423c413d1f73e03ab4 *inst/doc/coindeskr.html
+c3133194d89bbc852bde1c97e334ad70 *man/get_currency_list.Rd
+6d7825dfde839c32a1862564b6e66dba *man/get_current_price.Rd
+4b8f8003dbeceded8e9dac73df7263b9 *man/get_historic_price.Rd
+c2ec30e9d9e563dea74cecc596ea72c4 *man/get_last31days_price.Rd
+d4461e0265cf6b64d15ed50c2ccebae4 *tests/testthat.R
+95432fb4e5cbd258c6453f8c622ddd6d *tests/testthat/test-fun.R
